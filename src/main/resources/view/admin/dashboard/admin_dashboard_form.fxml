@@ -11,7 +11,7 @@
 <?import javafx.scene.shape.Line?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="895.0" prefWidth="1309.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.clothify.controller.admin.dashboard.AdminDashboardFormController">
+<AnchorPane prefHeight="895.0" prefWidth="1309.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.admin.dashboard.AdminDashboardFormController">
    <children>
       <Label layoutX="39.0" layoutY="13.0" opacity="0.83" style="-fx-font-weight: 700;" styleClass="dashboard-heading-font" stylesheets="@../../../css/font.css" text="Dashboard">
          <font>
