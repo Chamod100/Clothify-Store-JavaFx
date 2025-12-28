@@ -1,12 +1,12 @@
 package edu.icet.controller.common.customer;
 
-import com.clothify.dto.Customer;
-import com.clothify.service.ServiceFactory;
-import com.clothify.service.custom.CustomerService;
-import com.clothify.util.CustomAlert;
-import com.clothify.util.ServiceType;
-import com.clothify.validation.CustomerValidation;
 import com.jfoenix.controls.JFXButton;
+import edu.icet.model.dto.Customer;
+import edu.icet.service.ServiceFactory;
+import edu.icet.service.custom.CustomerService;
+import edu.icet.util.CustomAlert;
+import edu.icet.util.ServiceType;
+import edu.icet.validation.CustomerValidation;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
