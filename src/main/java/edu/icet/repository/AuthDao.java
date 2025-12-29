@@ -1,6 +1,6 @@
 package edu.icet.repository;
 
-import com.clothify.entity.UserCredentialsEntity;
+import edu.icet.model.entity.UserCredentialsEntity;
 
 public interface AuthDao {
     UserCredentialsEntity getUserByEmail(String email);

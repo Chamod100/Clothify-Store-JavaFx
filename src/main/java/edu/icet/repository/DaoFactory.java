@@ -1,7 +1,7 @@
 package edu.icet.repository;
 
-import com.clothify.repository.custom.impl.*;
-import com.clothify.util.DaoType;
+import edu.icet.repository.custom.impl.*;
+import edu.icet.util.DaoType;
 
 public class DaoFactory {
     private static DaoFactory instance;
