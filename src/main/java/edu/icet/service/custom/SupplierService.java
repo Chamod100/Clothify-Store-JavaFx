@@ -1,7 +1,7 @@
 package edu.icet.service.custom;
 
-import com.clothify.dto.Supplier;
-import com.clothify.service.SuperService;
+import edu.icet.model.dto.Supplier;
+import edu.icet.service.SuperService;
 import javafx.collections.ObservableList;
 
 public interface SupplierService extends SuperService {

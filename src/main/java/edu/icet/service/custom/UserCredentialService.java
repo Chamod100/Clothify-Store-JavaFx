@@ -1,7 +1,7 @@
 package edu.icet.service.custom;
 
-import com.clothify.dto.UserCredentials;
-import com.clothify.service.SuperService;
+import edu.icet.model.dto.UserCredentials;
+import edu.icet.service.SuperService;
 import javafx.collections.ObservableList;
 
 public interface UserCredentialService extends SuperService {

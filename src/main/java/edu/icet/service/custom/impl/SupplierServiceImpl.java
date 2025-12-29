@@ -1,12 +1,12 @@
 package edu.icet.service.custom.impl;
 
-import com.clothify.dto.Supplier;
-import com.clothify.entity.SupplierEntity;
-import com.clothify.repository.DaoFactory;
-import com.clothify.repository.custom.SupplierDao;
-import com.clothify.service.custom.SupplierService;
-import com.clothify.util.CustomAlert;
-import com.clothify.util.DaoType;
+import edu.icet.model.dto.Supplier;
+import edu.icet.model.entity.SupplierEntity;
+import edu.icet.repository.DaoFactory;
+import edu.icet.repository.custom.SupplierDao;
+import edu.icet.service.custom.SupplierService;
+import edu.icet.util.CustomAlert;
+import edu.icet.util.DaoType;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import org.modelmapper.ModelMapper;

@@ -1,7 +1,8 @@
 package edu.icet.service.custom;
 
-import com.clothify.dto.*;
-import com.clothify.service.SuperService;
+import edu.icet.model.dto.Order;
+import edu.icet.model.dto.OrderDetail;
+import edu.icet.service.SuperService;
 import javafx.collections.ObservableList;
 
 import java.sql.SQLException;

@@ -1,7 +1,7 @@
 package edu.icet.repository.custom;
 
-import com.clothify.entity.CustomerEntity;
-import com.clothify.repository.CrudDao;
+import edu.icet.model.entity.CustomerEntity;
+import edu.icet.repository.CrudDao;
 
 public interface CustomerDao extends CrudDao<CustomerEntity> {
     CustomerEntity findByPhone(String phone);

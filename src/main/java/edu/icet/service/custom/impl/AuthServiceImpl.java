@@ -1,10 +1,10 @@
 package edu.icet.service.custom.impl;
 
-import com.clothify.dto.UserCredentials;
-import com.clothify.entity.UserCredentialsEntity;
-import com.clothify.repository.AuthDao;
-import com.clothify.repository.custom.impl.AuthDaoImpl;
-import com.clothify.service.custom.AuthService;
+import edu.icet.model.dto.UserCredentials;
+import edu.icet.model.entity.UserCredentialsEntity;
+import edu.icet.repository.AuthDao;
+import edu.icet.repository.custom.impl.AuthDaoImpl;
+import edu.icet.service.custom.AuthService;
 import org.mindrot.jbcrypt.BCrypt;
 import org.modelmapper.ModelMapper;
 
