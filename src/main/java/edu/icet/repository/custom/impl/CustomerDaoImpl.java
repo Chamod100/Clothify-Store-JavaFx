@@ -1,8 +1,8 @@
 package edu.icet.repository.custom.impl;
 
-import com.clothify.entity.CustomerEntity;
-import com.clothify.repository.custom.CustomerDao;
-import com.clothify.util.CrudUtil;
+import edu.icet.model.entity.CustomerEntity;
+import edu.icet.repository.custom.CustomerDao;
+import edu.icet.util.CrudUtil;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 

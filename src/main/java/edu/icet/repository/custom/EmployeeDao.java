@@ -1,7 +1,8 @@
 package edu.icet.repository.custom;
 
-import com.clothify.entity.EmployeeEntity;
-import com.clothify.repository.CrudDao;
+
+import edu.icet.model.entity.EmployeeEntity;
+import edu.icet.repository.CrudDao;
 
 public interface EmployeeDao extends CrudDao<EmployeeEntity> {
 }

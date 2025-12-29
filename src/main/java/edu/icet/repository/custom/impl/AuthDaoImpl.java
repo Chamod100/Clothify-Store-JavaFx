@@ -1,8 +1,8 @@
 package edu.icet.repository.custom.impl;
 
-import com.clothify.db.DBConnection;
-import com.clothify.entity.UserCredentialsEntity;
-import com.clothify.repository.AuthDao;
+import edu.icet.db.DBConnection;
+import edu.icet.model.entity.UserCredentialsEntity;
+import edu.icet.repository.AuthDao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
