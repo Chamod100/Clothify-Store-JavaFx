@@ -9,7 +9,7 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane maxHeight="245.0" maxWidth="201.0" minHeight="238.0" minWidth="201.0" onMouseClicked="#productCardOnClick" prefHeight="245.0" prefWidth="201.0" style="-fx-background-color: #ffffff;" styleClass="highlight-card" stylesheets="@../../../css/anchor-pane.css" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.clothify.controller.common.order.OrderProductCardController">
+<AnchorPane maxHeight="245.0" maxWidth="201.0" minHeight="238.0" minWidth="201.0" onMouseClicked="#productCardOnClick" prefHeight="245.0" prefWidth="201.0" style="-fx-background-color: #ffffff;" styleClass="highlight-card" stylesheets="@../../../css/anchor-pane.css" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.common.order.OrderProductCardController">
    <children>
       <ImageView fx:id="productImg" fitHeight="124.0" fitWidth="124.0" layoutX="41.0" layoutY="18.0" pickOnBounds="true" preserveRatio="true">
          <image>

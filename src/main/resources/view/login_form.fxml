@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="834.0" prefWidth="1257.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.clothify.controller.LoginFormController">
+<AnchorPane prefHeight="834.0" prefWidth="1257.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.LoginFormController">
    <children>
       <ImageView fitHeight="834.0" fitWidth="792.0" pickOnBounds="true" preserveRatio="true">
          <image>
