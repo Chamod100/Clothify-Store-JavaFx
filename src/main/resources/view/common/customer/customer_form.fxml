@@ -16,7 +16,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane minHeight="895.0" minWidth="1309.0" prefHeight="895.0" prefWidth="1340.0" style="-fx-background-color: #EEEEEE;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.clothify.controller.common.customer.CustomerFormController">
+<AnchorPane minHeight="895.0" minWidth="1309.0" prefHeight="895.0" prefWidth="1340.0" style="-fx-background-color: #EEEEEE;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.common.customer.CustomerFormController">
    <children>
       <Label layoutX="38.0" layoutY="11.0" opacity="0.83" styleClass="dashboard-heading-font" stylesheets="@../../../css/font.css" text="Customer">
          <font>
