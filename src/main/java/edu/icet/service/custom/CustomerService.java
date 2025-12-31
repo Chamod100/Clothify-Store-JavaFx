@@ -1,7 +1,7 @@
 package edu.icet.service.custom;
 
-import com.clothify.dto.Customer;
-import com.clothify.service.SuperService;
+import edu.icet.model.dto.Customer;
+import edu.icet.service.SuperService;
 import javafx.collections.ObservableList;
 
 public interface CustomerService extends SuperService {
