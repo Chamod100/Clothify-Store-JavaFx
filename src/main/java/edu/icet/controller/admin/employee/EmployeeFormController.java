@@ -1,16 +1,16 @@
 package edu.icet.controller.admin.employee;
 
-import com.clothify.dto.*;
-import com.clothify.dto.Employee;
-import com.clothify.service.ServiceFactory;
-import com.clothify.service.custom.EmployeeService;
-import com.clothify.service.custom.UserCredentialService;
-import com.clothify.util.CustomAlert;
-import com.clothify.util.ServiceType;
-import com.clothify.validation.EmployeeValidation;
-import com.clothify.validation.UserCredentialValidation;
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXCheckBox;
+import edu.icet.model.dto.Employee;
+import edu.icet.model.dto.UserCredentials;
+import edu.icet.service.ServiceFactory;
+import edu.icet.service.custom.EmployeeService;
+import edu.icet.service.custom.UserCredentialService;
+import edu.icet.util.CustomAlert;
+import edu.icet.util.ServiceType;
+import edu.icet.validation.EmployeeValidation;
+import edu.icet.validation.UserCredentialValidation;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;

@@ -1,6 +1,6 @@
 package edu.icet.controller.admin.employee;
 
-import com.clothify.dto.Employee;
+import edu.icet.model.dto.Employee;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;

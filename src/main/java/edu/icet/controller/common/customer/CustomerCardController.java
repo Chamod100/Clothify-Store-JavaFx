@@ -1,6 +1,6 @@
 package edu.icet.controller.common.customer;
 
-import com.clothify.dto.Customer;
+import edu.icet.model.dto.Customer;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
